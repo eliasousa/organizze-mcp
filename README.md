@@ -4,7 +4,7 @@ Local MCP server exposing the [Organizze API](https://github.com/organizze/api-d
 
 ## Setup
 
-1. Install Ruby 3.4 (see `.ruby-version`).
+1. Install Ruby 4.0 (see `.tool-versions`).
 2. `bundle install`
 3. Copy `.env.example` to `.env` and fill in:
    - `ORGANIZZE_EMAIL` — your account email
