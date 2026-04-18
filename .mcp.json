@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "organizze": {
+      "command": "bundle",
+      "args": ["exec", "ruby", "bin/organizze-mcp"]
+    }
+  }
+}
